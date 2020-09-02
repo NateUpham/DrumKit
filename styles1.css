@@ -10,6 +10,10 @@ h1 {
   text-shadow: 3px 0 #DA0463;
 }
 
+p {
+	color: white;
+}
+
 .w {
 	background-image: url("images/tom1.png");
 }
